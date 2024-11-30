@@ -33,6 +33,3 @@ qemu-system-x86_64 boot
 sys linux will boot up copy and paste this in the boot 
 ```bash
 /bzImage -initrd=/init.cpio
-
-
-
