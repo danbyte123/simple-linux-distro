@@ -14,7 +14,7 @@ git clone https://github.com/danbyte123/simple-linux-distro-s1-.git
 ```
 navigate to it 
 ```bash
-cd simple linux distro-s1-
+cd simple-linux-distro-s1-
 ```
 start qemu 
 ```bash
