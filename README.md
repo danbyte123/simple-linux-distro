@@ -16,6 +16,13 @@ navigate to it
 ```bash
 cd simple-linux-distro-s1-
 ```
+download the boot file from here and put it in the simple-linux-distro-s1-
+https://drive.google.com/file/d/1v1Iiqd56J2kKsk66vGKOPPN4u7B003xp/view?usp=sharing
+```give root premission
+```bash
+sudo su
+```
+
 start qemu 
 ```bash
 qemu-system-x86_64 boot
